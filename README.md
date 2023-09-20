@@ -33,4 +33,3 @@ etc.[In INR]
 - Linear Regression has given score of 0.8001099072483999
 - Random Forest has given score of 0.8252940295029709
   
-  - 
